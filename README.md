@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou Leonardo de Queiroz Chaves Filho 👋
 
-<!--
-**Leonardo-Queiroz-1023/Leonardo-Queiroz-1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou focado em aprender e melhorar minhas habilidades em *JavaScript* e *Python*. Tenho experiência prática com essas tecnologias e estou sempre em busca de novos desafios para continuar meu aprendizado.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que mais utilizo:
+- *JavaScript*
+- *Python*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+### 🚦 (Sinalerta)
+Um jogo para os pedestres que esperam o sinal fechar para atravessar para o outro lado da avenida
+
+## 🏆 Certificados
+- Certificado de *JavaScript* pela *Cisco*.
+
+## 📲 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/leonardo-filho-7aa2a4336/)
+- [intagram](https://www.instagram.com/leoqueirozc_/)
+- [Email](leofilho229@gmail.com)
+
+## 🎯 Objetivos
+Meu objetivo é me divulgar como desenvolvedor, colaborar com a comunidade e, acima de tudo, continuar aprendendo e evoluindo como programador. 
+
+## 📚 Vamos crescer juntos!
+Estou aberto a novos projetos e oportunidades de colaboração! Se você estiver interessado em trocar ideias ou trabalhar juntos em algo, não hesite em me chamar.
